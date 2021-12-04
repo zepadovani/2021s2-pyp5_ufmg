@@ -13,7 +13,7 @@ O guia de instalação pode ser acessado nos links a seguir:
 
 [01. Processo geral de instalação](01-Processo_geral_de_instala%C3%A7%C3%A3o.md): explicação geral do processo de instalação do Processing e do Python no Windows, no macOS e no Linux/Ubuntu.
 
-[02 Instalação do Processing (macOS/windos/linux)](02-Instala%C3%A7%C3%A3o_do_Processing_%28mac_win_linux%29.md): guia sobre instalação do Processing nos três sistemas operacionais
+[02 Instalação do Processing (macOS/windows/linux)](02-Instala%C3%A7%C3%A3o_do_Processing_%28mac_win_linux%29.md): guia sobre instalação do Processing nos três sistemas operacionais
 
 [03 Instalação do Python (visão geral)](03-Instala%C3%A7%C3%A3o_do_Python-vis%C3%A3o_geral.md): visão geral sobre a instalação do Python nos três sistemas
 

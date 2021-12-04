@@ -2,6 +2,10 @@
 
 Este repositório contém informações de apoio à disciplina *Python e Processing aplicados à programação criativa em música e artes digitais*, ofertada em **formato remoto síncrono** no 2º semestre de 2021, na **Escola de Música da UFMG**, pelos docentes **José Henrique Padovani**, **Rogério Vasconcelos** e **Sérgio Freire** (Escola de Música/UFMG) e **Jalver Bethônico** (Escola de Belas Artes/UFMG).
 
+Uma visão geral do processo de instalação pode ser vista em:
+
+(01-Processo_geral_de_instalação.md)[01-Processo_geral_de_instalação.md]
+
 Como a disciplina requer a instalação e a configuração de diferentes ferramentas computacionais, localize os documentos/guias relacionados ao seu sistema operacional para configurar adequadamente seu computador.
 
 O objetivo da disciplina é aproximar estudantes, artistas e pesquisadores em música e artes digitais de ferramentas computacionais voltadas à programação criativa, estimulando a realização de projetos envolvendo processos algorítmicos. A primeira unidade do curso tem por objetivo apresentar elementos básicos do vocabulário (estruturas de dados) e da sintaxe do Python. Em um segundo momento, o curso será direcionado a partir da realização de projetos propostos pelos/as participantes envolvendo o uso de ferramentas computacionais em projetos criativos/investigativos.

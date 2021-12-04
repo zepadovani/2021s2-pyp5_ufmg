@@ -4,7 +4,7 @@ Este repositório contém informações de apoio à disciplina *Python e Process
 
 Uma visão geral do processo de instalação pode ser vista em:
 
-[01-Processo_geral_de_instalação.md](/01-Processo_geral_de_instalação.md)
+[01. Processo geral de instalação](01-Processo_geral_de_instala%C3%A7%C3%A3o.md)
 [aaa](https://github.com/zepadovani/2021s2-pyp5_ufmg/blob/main/01-Processo_geral_de_instala%C3%A7%C3%A3o.md)
 
 Como a disciplina requer a instalação e a configuração de diferentes ferramentas computacionais, localize os documentos/guias relacionados ao seu sistema operacional para configurar adequadamente seu computador.

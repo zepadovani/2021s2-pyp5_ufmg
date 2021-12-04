@@ -17,7 +17,7 @@ O guia de instalação pode ser acessado nos links a seguir:
 
 [03 Instalação do Python (visão geral)](03-Instala%C3%A7%C3%A3o_do_Python-vis%C3%A3o_geral.md): visão geral sobre a instalação do Python nos três sistemas
 
-[04 Instalação: Miniconda, Python, Atom e Visual Studio no Windows](04-Instalac%CC%A7a%CC%83o_Miniconda_Python_Atom_e_Visual_Studio_no_Windows.md): instalação do Miniconda, do Python, do Atom e do Visual Studio no Windows
+[04 Instalação: Miniconda, Python, Atom e Visual Studio no Windows](04-Instala%25C3%25A7%25C3%25A3o_Miniconda_Python_Atom_e_Visual_Studio_no_Windows.md): instalação do Miniconda, do Python, do Atom e do Visual Studio no Windows
 
 [05 Instalação: Miniconda, Python, Atom e Visual Studio no macOS](05-Instalac%CC%A7a%CC%83o_Miniconda_Python_Atom_e_Visual_Studio_no_macOS.md): instalação do Miniconda, do Python, do Atom e do Visual Studio no macOS
 

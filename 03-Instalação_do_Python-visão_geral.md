@@ -8,8 +8,8 @@ Para os ambientes **Windows** e **macOS**, o passo-a-passo inclui a instalação
 Guias específicos para cada sistema estão nos documentos a seguir:
 
 
-[Instalação: Miniconda, Python, Atom e Visual Studio no Windows](04-Instalac%CC%A7a%CC%83o_Miniconda_Python_Atom_e_Visual_Studio_no_Windows.md): instalação do Miniconda, do Python, do Atom e do Visual Studio no Windows
+[Instalação: Miniconda, Python, Atom e Visual Studio no Windows](04-Instala%C3%A7%C3%A3o_Miniconda_Python_Atom_e_Visual_Studio_no_Windows.md): instalação do Miniconda, do Python, do Atom e do Visual Studio no Windows
 
-[Instalação: Miniconda, Python, Atom e Visual Studio no macOS](05-Instalac%CC%A7a%CC%83o_Miniconda_Python_Atom_e_Visual_Studio_no_macOS.md): instalação do Miniconda, do Python, do Atom e do Visual Studio no macOS
+[Instalação: Miniconda, Python, Atom e Visual Studio no macOS](05-Instala%C3%A7%C3%A3o_Miniconda_Python_Atom_e_Visual_Studio_no_macOS.md): instalação do Miniconda, do Python, do Atom e do Visual Studio no macOS
 
-[Instalação: Miniconda, Python, Atom e Visual Studio no Linux/Ubuntu](06-Instalac%CC%A7a%CC%83o_Miniconda_Python_Atom_e_Visual_Studio_no_linux-ubuntu.md): instalação do Miniconda, do Python, do Atom e do Visual Studio no Linux/Ubuntu
+[Instalação: Miniconda, Python, Atom e Visual Studio no Linux/Ubuntu](06-Instala%C3%A7%C3%A3o_Miniconda_Python_Atom_e_Visual_Studio_no_linux-ubuntu.md): instalação do Miniconda, do Python, do Atom e do Visual Studio no Linux/Ubuntu
